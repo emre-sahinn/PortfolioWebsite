@@ -1,0 +1,41 @@
+.Footer {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    display: flex;
+}
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px 2px;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    background: rgb(41, 41, 41);
+    color: rgb(255, 255, 255);
+}
+
+.fa-linkedin {
+    float: left;
+    background: #ffffff;
+    color: rgb(41, 41, 41);
+}
+
+.fa-github {
+    margin: auto auto;
+    background: #ffffff;
+    color: rgb(41, 41, 41);
+}
+
+.fa-envelope {
+    float: right;
+    background: #ffffff;
+    color: rgb(41, 41, 41);
+}
